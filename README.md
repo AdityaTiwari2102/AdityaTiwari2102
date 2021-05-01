@@ -16,3 +16,12 @@
 👯 I’m looking to collaborate with the open source community to make our tech spaces more inclusive and accessibile.
 
 📫 How to reach me: taditya.tiwari007@gmail.com
+
+### ⚙️ GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/AdityaTiwari2102">
+    <img src='https://github-readme-stats.vercel.app/api?username=AdityaTiwari2102&count_private=true&include_all_commits=true&show_icons=true&theme=dark&locale=en'/>
+    <img src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdityaTiwari2102&theme=dark&layout=compact&locale=en'/>
+  </a>
+</p>
