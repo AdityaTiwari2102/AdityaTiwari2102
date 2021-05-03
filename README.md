@@ -13,7 +13,7 @@
 
 💬 Ask me about Ruby on Rails and GraphQL.
 
-👯 I’m looking to collaborate with the open source community to make our tech spaces more inclusive and accessibile.
+👯 I’m looking to collaborate with the open source community to make our tech spaces more inclusive and accessible.
 
 📫 How to reach me: taditya.tiwari007@gmail.com
 
