@@ -15,7 +15,7 @@
 
 👯 I’m looking to collaborate with the open source community to make our tech spaces more inclusive and accessible.
 
-📫 How to reach me: taditya.tiwari007@gmail.com
+📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-tiwari-2102/)
 
 ### 🔨 Languages and Tools:
 <p>
