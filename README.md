@@ -9,7 +9,7 @@
 
 🔭 I'm a software engineer 👨‍💻 currently working at [Commutatus](https://www.commutatus.com/).
 
-🌱 I’m currently studying for AWS Certified Cloud Practitioner Exam.
+🌱 I’m currently studying for AWS Certified Solutions Architect Exam.
 
 💬 Ask me about Ruby on Rails and GraphQL.
 
