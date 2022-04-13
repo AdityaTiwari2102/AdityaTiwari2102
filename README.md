@@ -9,7 +9,7 @@
 
 🔭 I'm a software engineer 👨‍💻 currently working at [Commutatus](https://www.commutatus.com/).
 
-🌱 I’m currently studying for AWS Certified Solutions Architect Exam.
+🌱 I’m [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/9c309db7-9da3-449d-87b9-2425c97ff913/public_url).
 
 💬 Ask me about Ruby on Rails and GraphQL.
 
