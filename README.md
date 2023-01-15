@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://github.com/AdityaTiwari2102">
-    <img src='https://github-readme-stats.vercel.app/api?username=AdityaTiwari2102&count_private=true&include_all_commits=true&show_icons=true&theme=dark&locale=en'/>
+    <img src='https://github-readme-stats-mango.vercel.app/api?username=AdityaTiwari2102&count_private=true&include_all_commits=true&show_icons=true&theme=dark&locale=en'/>
     <img src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdityaTiwari2102&theme=dark&layout=compact&locale=en'/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityatiwari2102&theme=dark" alt="adityatiwari2102" />
     <img src='https://github-profile-trophy.vercel.app/?username=AdityaTiwari2102&theme=juicyfresh&column=7' alt="adityatiwari2102" />
