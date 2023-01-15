@@ -3,10 +3,6 @@
   <img src='https://komarev.com/ghpvc/?username=AdityaTiwari2102'>
 </p>
 
-### My GitHub contributions as a Game of Life
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/AdityaTiwari2102.gif)](https://github4life.herokuapp.com/AdityaTiwari2102)
-
 🔭 I'm a software engineer 👨‍💻 currently working at [Commutatus](https://www.commutatus.com/).
 
 🌱 I’m [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/9c309db7-9da3-449d-87b9-2425c97ff913/public_url).
