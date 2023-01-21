@@ -14,7 +14,7 @@
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-tiwari-2102/)
 
 ### 🔨 Skills:
-<details>
+<details open>
   <summary>Programming Language</summary>
   <p>
     <br>
@@ -37,7 +37,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary>Database & Query Language</summary>
   <p>
     <br>
@@ -50,7 +50,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary>Tools</summary>
   <p>
     <br>
@@ -65,7 +65,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary>Others</summary>
   <p>
     <br>
