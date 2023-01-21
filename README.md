@@ -13,7 +13,7 @@
 
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-tiwari-2102/)
 
-### 🔨 Languages and Tools:
+### 🔨 Skills:
 <details>
   <summary>Programming Language</summary>
   <p>
