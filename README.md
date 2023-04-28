@@ -54,6 +54,8 @@
   <summary>Tools</summary>
   <p>
     <br>
+    <img src="https://user-images.githubusercontent.com/20839528/212481868-0aec9bce-176e-46a3-becc-6070dd79c19d.png" height="40" alt="aws"/>
+    &nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/20839528/212477397-2cfa0095-64ae-47a9-b151-1f2060bda276.png" height="40" alt="docker"/>
     &nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/20839528/212482308-0a05dd30-40d1-4199-948b-dfa2d9d4ad07.png" height="40" alt="git"/>
@@ -69,8 +71,6 @@
   <summary>Others</summary>
   <p>
     <br>
-    <img src="https://user-images.githubusercontent.com/20839528/212481868-0aec9bce-176e-46a3-becc-6070dd79c19d.png" height="40" alt="aws"/>
-    &nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/20839528/212477118-9123cfcd-9c04-4b36-855b-5656d89f0dda.png" height="40" alt="css3"/>
     &nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/20839528/212482506-69e7fa8d-2a65-4a6c-a38d-d3facd01059d.png" height="40" alt="html5"/>
