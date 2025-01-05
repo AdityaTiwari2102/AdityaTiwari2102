@@ -3,7 +3,7 @@
   <img src='https://komarev.com/ghpvc/?username=AdityaTiwari2102'>
 </p>
 
-🔭 I'm a software engineer 👨‍💻 currently working at [KeepSpace](https://keepspace.com.au/).
+🔭 I'm a Project Lead 👨‍💻 currently working at [Persistent Systems](https://www.persistent.com/).
 
 🌱 I’m [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/9c309db7-9da3-449d-87b9-2425c97ff913/public_url).
 
